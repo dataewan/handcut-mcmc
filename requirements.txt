@@ -1,2 +1,7 @@
 scipy==1.1.0
 tqdm==4.28.1
+jupyter==1.0.0
+jupyter-client==5.2.3
+jupyter-console==6.0.0
+jupyter-core==4.4.0
+seaborn==0.9.0
